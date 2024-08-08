@@ -34,7 +34,7 @@ family = "JetBrains Mono NL"
 style = "Bold"
 
 [window]
-opacity = 1.0
+opacity = 0.5
 
 [window.dimensions]
 columns = 160
